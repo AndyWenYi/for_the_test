@@ -6,6 +6,7 @@ import glob
 
 app = Flask(__name__)
 
+# for side project
 # 搜尋檔案路徑
 path ='./download/'
 csv_files = glob.glob(path + "/*A.csv")

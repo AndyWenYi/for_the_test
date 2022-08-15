@@ -3,6 +3,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.select import Select
 import time
 
+# for side project
 # 使用chromedirver
 chromedriver = '/usr/local/bin/chromedriver'
 
